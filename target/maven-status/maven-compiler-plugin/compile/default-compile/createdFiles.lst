@@ -1,0 +1,12 @@
+com\itservice\web\controllers\ContactController.class
+com\itservice\web\services\ContactServiceImpl.class
+com\itservice\web\services\EmailSender.class
+com\itservice\core\modal\Contacts.class
+com\itservice\web\dao\ContactDaoImpl.class
+com\itservice\web\dao\ContactDao.class
+com\itservice\web\services\ContactService.class
+com\itservice\config\AppConfig.class
+com\itservice\config\WebAppInitializer.class
+com\itservice\config\RootConfig.class
+com\itservice\web\controllers\HomeController.class
+com\itservice\config\EmailConfig.class

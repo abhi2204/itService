@@ -1,0 +1,20 @@
+#query-bar{
+	position: fixed;
+    left: 0em;
+    bottom: -2em;
+    z-index: 1000;
+    cursor:pointer;
+}
+
+#query-form{
+	position: fixed;
+    left: 0em;
+    bottom: 0em;
+    z-index: 1000;
+    background-color: #ebebeb;
+    cursor:pointer;
+    display:none;
+}
+#successMessage{
+	display:none;
+}
